@@ -18,14 +18,13 @@
 
 - 📄 Know about my experiences [https://s.id/PortoHanan](https://s.id/PortoHanan)
 
-<br><br><br>
+<br>
 <h3>Connect with me:</h3>
 <p>
-<a href="https://twitter.com/hananfariztaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hananfariztaa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hananfarizta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hananfarizta" height="30" width="40" /></a>
-<a href="https://fb.com/hananfarizta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="hananfarizta" height="30" width="40" /></a>
-<a href="https://instagram.com/hananfarizta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hananfarizta" height="30" width="40" /></a>
-<a href="https://twitter.com/hananfariztaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hananfariztaa" height="30" width="40" /></a>
+<a href="https://twitter.com/hananfariztaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/twitter.svg" alt="hananfariztaa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hananfarizta" target="blank"><img align="center" src="https://img.icons8.com/fluency/344/linkedin-circled.png" alt="hananfarizta" height="40" width="40" /></a>
+<a href="https://fb.com/hananfarizta" target="blank"><img align="center" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/facebook.svg" alt="hananfarizta" height="30" width="40" /></a>
+<a href="https://instagram.com/hananfarizta" target="blank"><img align="center" src="https://img.icons8.com/fluency/344/instagram-new.png" alt="hananfarizta" height="40" width="40" /></a>
 
 <h3>Languages and Tools:</h3>
 <p>
