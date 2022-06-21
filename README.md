@@ -6,7 +6,7 @@
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hananfarizta" alt="hananfarizta" /></a> </p>
 <img src="https://media.giphy.com/media/o7f8rvkZIbtgKP93iq/giphy.gif" align="right">
-<br>
+
 
 - 🔭 I’m currently working on **Self employed(Looking for an Internship Opportunity)**
 
