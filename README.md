@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=30>, I'm Muhammad Hanan Rafif Farizta</h1>
-<h3 align="center">An innovative tech mind and high interest in Front-end Development, Mobile Development, and UI/UX Design.</h3>
+<h3 align="center">An innovative tech mind and high interest in Full-Stack Development, Mobile Development, and UI/UX Design.</h3>
 <div align="center">
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 </div>
