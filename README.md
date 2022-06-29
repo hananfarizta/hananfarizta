@@ -42,6 +42,7 @@
   <a href="https://laravel.com/" target="_blank"> <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40"/> </a>
   <a href="https://www.javascript.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://vuejs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="vuejs" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="reactjs" width="40" height="40"/> </a>
 </p>
 <br>
 <div align="center">
