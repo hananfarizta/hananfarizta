@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=30>, I'm Muhammad Hanan Rafif Farizta</h1>
-<h3 align="center">An innovative tech mind and high interest in Full-Stack Development, Mobile Development, and UI/UX Design.</h3>
+<h3 align="center">An innovative tech mind and high interest in Data Analytics, Data Science, Machine Learning, and Artificial Intelligence.</h3>
 <div align="center">
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 </div>
@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Self employed(Looking for an Internship Opportunity)**
 
-- 🌱 I’m currently learning **Flutter, Laravel, and Python**
+- 🌱 I’m currently learning **Data Analytics, Data Science, Machine Learning, and Artificial Intelligence**
 
 - 💬 Ask me about **Anything**
 
@@ -41,8 +41,8 @@
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://laravel.com/" target="_blank"> <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40"/> </a>
   <a href="https://www.javascript.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://vuejs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="vuejs" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="reactjs" width="40" height="40"/> </a>
+  <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1024px-Tensorflow_logo.svg.png?20170429160244" alt="tensorflow" width="40" height="40"/> </a>
+  <a href="https://pytorch.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png?20211003060202" alt="pytorch" width="100" height="30"/> </a>
 </p>
 <br>
 <div align="center">
@@ -50,7 +50,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hananfarizta&theme=dark&show_icons=true" alt="hananfarizta" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hananfarizta&stroke=ffffff&background=000000&ring=0891b2&fire=FF0000&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" alt="hananfarizta" /></p>
 <p><img src="https://metrics.lecoq.io/hananfarizta?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka">	</p>
-<a href="https://github.com/hananfarizta"><img alt="Muhammad Hanan Rafif Farizta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hananfarizta&custom_title=Muhammad%20Hanan%20Rafif%20Farizta's%20Contribution%20Graph&theme=react-dark" /></a>
+<!-- <a href="https://github.com/hananfarizta"><img alt="Muhammad Hanan Rafif Farizta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hananfarizta&custom_title=Muhammad%20Hanan%20Rafif%20Farizta's%20Contribution%20Graph&theme=react-dark" /></a> -->
 <h1 align="center">【T】【H】【A】【N】【K】 【Y】【O】【U】【!】</h1>
 <div align="center">
 <img src="https://media.giphy.com/media/3oz8xIsloV7zOmt81G/giphy.gif">
