@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=30>, I'm Muhammad Hanan Rafif Farizta</h1>
-<h3 align="center">An innovative tech mind and high interest in Data Analytics, Data Science, Machine Learning, and Artificial Intelligence.</h3>
+<h3 align="center">An innovative tech mind and high interest in Mobile Development and Quality Assurance.</h3>
 <div align="center">
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 </div>
@@ -8,9 +8,9 @@
 <img src="https://media.giphy.com/media/o7f8rvkZIbtgKP93iq/giphy.gif" align="right">
 
 
-- 🔭 I’m currently working on **Self employed(Looking for an Internship Opportunity)**
+- 🔭 I’m currently working on **Self employed(Looking for an Fulltime Opportunity)**
 
-- 🌱 I’m currently learning **Data Analytics, Data Science, Machine Learning, and Artificial Intelligence**
+- 🌱 I’m currently learning **iOS Development (Swift), Android Development (Kotlin), Cross-Platform (Flutter)**
 
 - 💬 Ask me about **Anything**
 
@@ -21,7 +21,6 @@
 <br>
 <h3>Connect with me:</h3>
 <p>
-<a href="https://twitter.com/hananfariztaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/twitter.svg" alt="hananfariztaa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hananfarizta" target="blank"><img align="center" src="https://img.icons8.com/fluency/344/linkedin-circled.png" alt="hananfarizta" height="40" width="40" /></a>
 <a href="https://fb.com/hananfarizta" target="blank"><img align="center" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/facebook.svg" alt="hananfarizta" height="30" width="40" /></a>
 <a href="https://instagram.com/hananfarizta" target="blank"><img align="center" src="https://img.icons8.com/fluency/344/instagram-new.png" alt="hananfarizta" height="40" width="40" /></a>
@@ -33,16 +32,10 @@
   <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
   <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-  <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://laravel.com/" target="_blank"> <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40"/> </a>
+  <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
   <a href="https://www.javascript.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1024px-Tensorflow_logo.svg.png?20170429160244" alt="tensorflow" width="40" height="40"/> </a>
-  <a href="https://pytorch.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png?20211003060202" alt="pytorch" width="100" height="30"/> </a>
+  <a href="https://www.swift.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Swift_logo.svg/640px-Swift_logo.svg.png" alt="swift" width="120" height="40"/> </a>
+  <a href="https://kotlinlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/640px-Kotlin_Icon.svg.png" alt="kotlin" width="40" height="40"/> </a>
 </p>
 <br>
 <div align="center">
